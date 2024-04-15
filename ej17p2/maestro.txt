@@ -1,0 +1,27 @@
+100 120 1 15 231 Varela 
+matri
+cruce
+100 120 1 15 231 Varela 
+matri
+cruce
+100 120 4 15 231 Varela 
+matri
+cruce
+100 120 4 15 231 Varela 
+matri
+cruce
+100 120 4 15 231 Varela 
+matri
+cruce
+100 125 1 15 231 Varela 
+otro
+cruce
+100 130 1 15 231 Varela 
+otro2
+cruce
+100 130 1 15 231 Varela 
+otro3
+cruce
+200 120 1 15 231 Varela 
+otro4
+cruce424 

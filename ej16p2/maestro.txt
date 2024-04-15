@@ -1,0 +1,12 @@
+10 400 534 200 japan
+buena
+15 400 534 200 japan
+buena
+20 400 534 200 japan
+buena
+25 400 534 200 japan
+buena
+30 400 534 200 japan
+buena
+35 400 534 200 japan
+buena 
