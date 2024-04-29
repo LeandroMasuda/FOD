@@ -1,0 +1,12 @@
+34 342 424 deportivo
+rojo
+pantalon
+2 433 253 formal
+amarillo
+remera
+400 983 25 casual
+verde
+buzo
+45 17 63 semiformal
+negro
+camisa 
